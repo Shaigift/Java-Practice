@@ -1,0 +1,8 @@
+/*
+Exercise:
+        Fill in the missing parts to import the java.util.Scanner class from the Java API:*/
+import java.util.Scanner;
+/*
+
+Exercise:
+        The class below should not be inherited by other classes. Add the correct modifier:*/
